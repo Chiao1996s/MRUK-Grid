@@ -17,9 +17,24 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/03_FloorGridGeneration_w_MRUK_Ray_Menu.unity
     guid: 605c402511b788443aeef337f6f61f34
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/03_FloorGridGeneration_w_MRUK_Ray_ClearBox.unity
     guid: 7086b8a6b01173e43846516fcfa0772d
+  - enabled: 0
+    path: Assets/Scenes/05_RoomObjectBlock_DistantGrab.unity
+    guid: c847e7dbb9488f246aed4c41389449f7
+  - enabled: 0
+    path: Assets/Samples/Meta XR Interaction SDK OVR Samples/65.0.0/Example Scenes/DistanceGrabExamples.unity
+    guid: e1c1f1d4144ac8849ac1833b99bdfd23
+  - enabled: 0
+    path: Assets/Scenes/04_RoomObjectBlock.unity
+    guid: f8d43f40c238fc64db5cd304919ff233
+  - enabled: 0
+    path: Assets/Scenes/DistanceGrabTest.unity
+    guid: 33404b218d71be9458c57b0f33d84edd
+  - enabled: 1
+    path: Assets/Scenes/04_RoomObjectBlock_All.unity
+    guid: 855c5e672cd44d24ab07ecb62176239f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3c1f066d9e6500f4293f167b3d4c0771, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6470316fe0639d644add388e9a37bb98, type: 2}

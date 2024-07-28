@@ -31,7 +31,7 @@ public class DisplayLabel : MonoBehaviour
             string label = anchor.AnchorLabels[0];
 
             debugText.transform.position = hitPoint;
-            debugText.transform.rotation = Quaternion.LookRotation(hitNormal);
+            debugText.transform.rotation = Quaternion.LookRotation(-hitNormal);
             debugText.text = "ANCHOR: " + label;
         }
     }
